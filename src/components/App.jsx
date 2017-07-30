@@ -4,7 +4,7 @@ export default class App extends Component {
     render() {
         return (
             <div className="container">
-                <div className="page-header text-center"><h2>Minimal Boilerplate</h2></div>
+                <div className="page-header text-center"></div>
                 <div className="panel panel-primary">
                     <div className="panel-heading"><h3>Technologies</h3></div>
                     <ul className="list-group">
