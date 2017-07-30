@@ -1,6 +1,7 @@
 # react-boilerplate
 A minimalistic boilerplate set up for React, Redux, Webpack, Webpack dev server, Babel, React-Hot-Loader, and css/sass/file/url loaders.
 
+## Installation
 <ul>
 <li>Clone the repo</li>
 <li>Open a terminal from the folder root</li>
@@ -11,6 +12,6 @@ A minimalistic boilerplate set up for React, Redux, Webpack, Webpack dev server,
 
 ![](http://i.imgur.com/OPqctbo.gif)
 
-## License
+### License
 
 MIT
